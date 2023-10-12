@@ -1,5 +1,6 @@
 body {
   margin: auto;
+  padding: 0;
   color: #FFF;
 }
 
@@ -147,7 +148,7 @@ font-size: 18px;
   padding: 180px 50px;
 }
 
-.lots__heading{
+.lots__heading {
   padding: 0 0 27px 40px;
   color: #000;
   font-weight: 700;
@@ -223,7 +224,7 @@ font-size: 18px;
   line-height: 1.2;
 }
 
-.lots__look-more-link{
+.lots__look-more-link {
   align-self:flex-start;
   margin-left: 40px;
   border-bottom: 1px solid #000;
@@ -326,17 +327,4 @@ font-size: 18px;
   width: 240px;
   height: 48px;
   list-style: none;
-  
-}
-
-.footer__social-list-item {
-  
-}
-
-.footer__social-link {
-  
-}
-
-.footer__social-icon {
-  
 }
