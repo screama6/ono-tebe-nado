@@ -64,7 +64,7 @@ font-size: 18px;
   position: relative;
   display: flex;
   flex-direction: column;
-  background-image: url(/images/cover.jpg);
+  background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -185,7 +185,7 @@ font-size: 18px;
 
 .card_type_film {
   position: relative;
-  background-image: url(/images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-01.jpg);
   background-repeat: no-repeat;
   
   background-size: 100%;
@@ -193,7 +193,7 @@ font-size: 18px;
 
 .card_type_book {
   position: relative;
-  background-image: url(/images/card-lot-02.jpg);
+  background-image: url(../images/card-lot-02.jpg);
   background-repeat: no-repeat;
   
   background-size: 100%;
@@ -201,7 +201,7 @@ font-size: 18px;
 
 .card_type_picture {
   position: relative;
-  background-image: url(/images/card-lot-03.jpg);
+  background-image: url(../images/card-lot-03.jpg);
   background-repeat: no-repeat;
   
   background-size: 100%;
