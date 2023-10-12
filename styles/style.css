@@ -66,7 +66,6 @@ body {
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 100%;
 }
 
 .overlay {
@@ -84,16 +83,19 @@ body {
   flex-direction: column;
   gap: 20px;
   padding: 165px 50px 135px 50px;
-  line-height: 1;
 }
 
 .aligned-text {
   display: flex;
   font-weight: 700;
   font-size: 100px;
-  line-height: 1.15;
   letter-spacing: 30px;
+  line-height: 1;
   text-transform: uppercase;
+}
+
+.aligned-text_left {
+  line-height: 1.15;
 }
 
 .aligned-text_center {
